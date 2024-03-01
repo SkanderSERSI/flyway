@@ -1,4 +1,4 @@
-package com.sfeir.flyway.repositories;
+package com.sfeir.flyway.infrastructure.persistence;
 
 import com.sfeir.flyway.domain.Book;
 import org.springframework.data.repository.CrudRepository;
