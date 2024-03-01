@@ -1,6 +1,7 @@
 ### Introduction
 Projet de  training au sein de l'activ'IT sur la technologie flyway
 Stack :  SpringBoot 3/ JAVA 17/  PostgreSQL/ Docker
+Archi:  Domain Driven Design
 
 
 ### How to run ?
