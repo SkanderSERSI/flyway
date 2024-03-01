@@ -19,4 +19,5 @@ public class Book {
     private String isbn;
     private String name;
     private String category;
+    private String price;
 }
